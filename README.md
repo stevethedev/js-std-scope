@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/stevethedev/js-std-scope.svg?branch=master)](https://travis-ci.org/stevethedev/js-std-scope)
+[![Build status](https://ci.appveyor.com/api/projects/status/gm813j09ock6vs7s/branch/master?svg=true)](https://ci.appveyor.com/project/stevethedev/js-std-scope/branch/master)
+
+
 # Private and Protected Scope for JavaScript
 
 One of the features that have always been painfully missing from JavaScript, in my opinion, is its conspicuous inability to use `public`, `private`, and `protected` to explicitly define the scope of class members. I would imagine that this particular quirk owes its origins to the same decisions that led to JavaScript not having a class keyword until ECMAScript 6 came about. Regardless of its origins, however, it's a feature whose absence I've always lamented — and a feature which many other developers have sought to emulate.
