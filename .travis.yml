@@ -26,6 +26,7 @@ env:
 
 install:
   - npm install
+  - npm install mocha
 
 script:
   - npm test
