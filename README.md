@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/stevethedev/js-std-scope.svg?branch=master)](https://travis-ci.org/stevethedev/js-std-scope)
-[![Build status](https://ci.appveyor.com/api/projects/status/gm813j09ock6vs7s/branch/master?svg=true)](https://ci.appveyor.com/project/stevethedev/js-std-scope/branch/master)
 
 
 # Private and Protected Scope for JavaScript
